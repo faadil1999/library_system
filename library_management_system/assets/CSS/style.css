@@ -1,0 +1,68 @@
+/*register an login style*/
+.login_box{
+
+    margin: 0 auto;
+    margin-top: 35px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    text-align: center;
+    width: 400px;
+    padding-bottom: 20px
+}
+.elem_form{
+
+    margin:0 auto;
+}
+.library{
+    background-image:url("../images/bg.jpg");
+}
+#send_form{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.header_form h2{
+    color: #260e04;
+    background-color: #616161;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 20px 0 20px 0;
+    
+   
+}
+#fade
+{
+    height: 100px;
+    width: 100;
+    background-color: red;
+}
+
+.errorComment
+{
+    color: red;
+    font-size: 14px;
+}
+
+/*****profil style******/
+.profil_data{
+    background-color: #e0e0e0 ;
+    padding: 25px;
+
+}
+
+
+
+.data_personal{
+    box-shadow: 3px 3px 3px 3px rebeccapurple;
+    padding: 8px;
+}
+
+.Mybooks{
+    box-shadow: 3px 3px 3px 3px rebeccapurple;
+    padding: 8px;
+}
+
+/*******list-book style********/
+.bckListBook{
+
+    background-color:yellowgreen;
+}
